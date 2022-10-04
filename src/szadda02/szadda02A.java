@@ -7,6 +7,7 @@ public class szadda02A {
         System.out.println("hello 02nd commit");
         String love = "nanamma";
         System.out.println("hello 3rd commit" + love);
+        int i = 30;
     }
 
 }
